@@ -7,8 +7,11 @@ In this project, I would like to show the top 3 countries if you want to get kil
 TOP 3  : 
  
 1 - AUSTRALIA
+
 2 - USA 
+
 3 - SOUTH AFRICA
+
 
 Most dangerous activity : 
 
